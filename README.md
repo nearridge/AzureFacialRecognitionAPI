@@ -1,4 +1,4 @@
-# AzureFacialRecognition
+# AzureFacialRecognitionAPI
 
 GUI for the Microsoft Azure Face API. Focuses on emotion analysis. Emotion analysis created for Echelon Insights in Fall 2020 by Neeraj Sharma.
 
